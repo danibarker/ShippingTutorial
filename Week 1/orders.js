@@ -3,7 +3,7 @@
         customerAddress: '123 Main St',
 
         items: {
-            milk: 200,
+            milk: 2,
             eggs: 2,
             bread: 2,
             bananas: 5
